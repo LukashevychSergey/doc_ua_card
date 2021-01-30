@@ -1,0 +1,107 @@
+*{
+    margin: 0;
+}
+body{
+    background: #09859d;
+    font-family: Arial,sans-serif;
+    font-size: 14px;
+}
+.wrap{
+    width: 700px;
+    min-height: 100px;
+    background: #ffffff;
+    margin: 40px auto 40px auto;
+    
+}
+.header{
+    height: 120px;
+    background-color: pink;
+    background-image: url(images_doc/header.png);
+    background-size:100%;
+}
+h1{
+    font-weight: 400;
+    font-size: 18px;
+    text-align: center;
+    margin: 40px 0 40px 0;
+    
+
+}
+    .main{
+    margin: 0 30px;
+}
+    p{
+    margin: 0 0 20px 0;
+    font-size: 18px;
+    line-height: 160%;
+}
+
+    .img-2{
+    width: 308px;
+    margin: 0 0 20px 0;
+}
+    .img-left{
+    margin-left: 20px;
+}
+    .img-3{
+    width: 196px;
+    
+}
+    .img-center{
+    margin: 0 22px;
+}
+    .under-img{
+    margin-top: 20px;
+}
+.block2{
+    width: 320px;
+    height: 405px;
+    text-align: center;
+    float: left;
+}
+.block2 img{
+    
+  width: 300px;  
+}
+
+.like{
+    background: #e74c3c;
+    color: #fff;
+    text-align: center;
+    padding: 5px;
+    margin: 40px 20px;
+    border-radius: 6px;
+    
+}
+.like1{
+    background: #e74c3c;
+    color: #fff;
+    text-align: center;
+    padding: 5px;
+    margin: 40px 20px 40px 20px;
+    border-radius: 6px;
+    position:relative;
+    bottom:20px;
+}
+.bcj{
+    position: relative;
+    top: 15px;
+}
+
+.block3{
+    width: 320px;
+    height: 405px;
+    text-align: center;
+    float: left;
+}
+
+.block3 img{
+    
+  width: 300px;  
+}
+.lip{
+    
+    font-size: 18px;
+    margin: 20px 0;
+    
+}
